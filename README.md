@@ -1,3 +1,4 @@
+![Banner](banner.jpg)
 # 👋 Hello, I'm Rashmi Navodya
 
 🎓 **Information Technology Undergraduate**  
@@ -8,22 +9,22 @@
 
 ## 🌟 About Me
 
-I am an enthusiastic IT undergraduate who loves turning ideas into real-world applications through clean and efficient code.  
-I enjoy learning new technologies and continuously improving my development skills.
+I am an Information Technology undergraduate passionate about building real-world software solutions.
 
-- 🔭 Currently working on: Web Development Projects
-- 🌱 Learning: Advanced Java, PHP, and Modern Web Technologies
-- 🎯 Goal: To become a skilled Software Engineer in a professional environment
-- 💡 Interested in: Full Stack Development & Problem Solving
+I enjoy working on web applications using Java, PHP, and modern web technologies. I am continuously improving my skills and preparing for internship opportunities in the software industry.
 
+🎯 Career Goal: To become a professional Software Engineer and contribute to impactful projects.
+
+💡 Interests: Web Development, Backend Systems, Problem Solving
 ---
 
-## 🛠️ Tech Stack
+##  🛠️ Tech Stack
 
-💻 Languages:  
-- Java  
-- PHP  
-- HTML, CSS, JavaScript  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 🧰 Tools & Platforms:  
 - Git & GitHub  
@@ -35,23 +36,16 @@ I enjoy learning new technologies and continuously improving my development skil
 
 ## 📌 Projects
 
-- 🛒 Cake Shop Billing System (Java GUI)
-- 🌸 Online Flower Ordering System (PHP & MySQL)
+- 🛒 bean-and-brew
 - 🏥 Hospital Management System (Group Project - Ongoing)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 🌐 GitHub: https://github.com/your-username  
+- 📧 Email: your-rashminavodya7@gmail.com.com  
+- 💼 LinkedIn: www.linkedin.com/in/rashmi-navodya-ba4705311 
+ 
 
 ---
 
