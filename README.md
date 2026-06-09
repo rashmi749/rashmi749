@@ -36,9 +36,6 @@ I am an Information Technology undergraduate passionate about software developme
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🎨 Design & Other Skills
-![UI/UX Design](https://img.shields.io/badge/UI%2FUX_Design-FF4088?style=for-the-badge&logo=figma&logoColor=white)
-![Database Management](https://img.shields.io/badge/Database_Management-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
