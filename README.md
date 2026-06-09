@@ -14,13 +14,11 @@
 
 ## 🌟 About Me
 
-I am an enthusiastic IT undergraduate who enjoys building clean, modern, and user-friendly web applications.
+I am an Information Technology undergraduate passionate about software development and web technologies. I enjoy building user-friendly applications, solving problems, and continuously learning new skills.
 
-I am continuously learning new technologies and improving my skills to become a professional Software Engineer.
+🎯 **Career Objective:** Aspiring Software Engineer seeking opportunities to gain industry experience and grow professionally.
 
-🎯 **Career Goal:** To secure an internship and grow as a skilled developer in the IT industry.
-
-💡 **Interests:** Web Development | Backend Development | Problem Solving | Software Engineering
+💡 **Interests:** Web Development • Backend Development • Software Engineering • Problem Solving
 
 ---
 
