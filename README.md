@@ -44,15 +44,9 @@ I am continuously learning new technologies and improving my skills to become a 
 - 🌸 Online Flower Ordering System (PHP + MySQL ongoing)
 - 🏥 Hospital Management System (ongoing)
 
----
 
-## 📊 GitHub Stats
 
-<p align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rashmi749&show_icons=true&theme=radical)
-
-</p>
 
 ---
 
