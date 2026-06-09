@@ -40,13 +40,9 @@ I am continuously learning new technologies and improving my skills to become a 
 
 ## 📌 Projects
 
-- 🛒 bean-and-brew(Coffe shop)
-- 🌸 Online Flower Ordering System (PHP + MySQL ongoing)
-- 🏥 Hospital Management System (ongoing)
-
-
-
-
+- 🛒 **Bean & Brew Coffee Shop System**
+- 🌸 **Online Flower Ordering System (PHP + MySQL - Ongoing)**
+- 🏥 **Hospital Management System (Ongoing)**
 
 ---
 
@@ -54,9 +50,15 @@ I am continuously learning new technologies and improving my skills to become a 
 
 <p align="center">
 
-📧 Email: rashminavodya7@gmail.com
-💼 LinkedIn:www.linkedin.com/in/rashmi-navodya-ba4705311 
-🌐 GitHub: https://github.com/rashmi749  
+📧 Email: <a href="mailto:rashminavodya7@gmail.com">rashminavodya7@gmail.com</a><br><br>
+
+💼 LinkedIn: <a href="https://www.linkedin.com/in/rashmi-navodya-ba4705311" target="_blank">
+linkedin.com/in/rashmi-navodya
+</a><br><br>
+
+🌐 GitHub: <a href="https://github.com/rashmi749" target="_blank">
+github.com/rashmi749
+</a>
 
 </p>
 
@@ -69,9 +71,5 @@ I am continuously learning new technologies and improving my skills to become a 
 > "Code is not just instructions, it's a solution to real-world problems."
 
 </p>
-
----
-
-<p align="center">
 ⭐ Thanks for visiting my GitHub profile!
 </p>
